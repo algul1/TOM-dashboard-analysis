@@ -197,11 +197,11 @@
 <div class="page">
 
   <div class="title-block">
-    <div class="title-course">ELE3750 — Financial Analysis and Valuation &nbsp;·&nbsp; BI Business School</div>
+    <div class="title-course">Financial Analysis · Oslo, 2025</div>
     <div class="title-main">Financial Analysis and Valuation of TOMRA Systems ASA</div>
     <div class="title-sub">Reverse vending, recycling and food sorting &nbsp;·&nbsp; Oslo Stock Exchange: TOM</div>
     <div class="title-meta">
-      <span>Submitted: 31 May 2026</span>
+      <span>Completed: May 2025</span>
       <span>Reference date: 1 January 2025</span>
       <span>Market price: NOK 146.5</span>
     </div>
@@ -361,7 +361,7 @@
   </div>
 
   <div class="footer">
-    <span>TOMRA Systems ASA (OSE: TOM) &nbsp;·&nbsp; ELE3750 Financial Analysis and Valuation, BI Business School &nbsp;·&nbsp; Submitted 31 May 2026</span>
+    <span>TOMRA Systems ASA (OSE: TOM) &nbsp;·&nbsp; Financial Analysis of TOMRA Systems ASA · Oslo, 2025</span>
     <span>For educational purposes only. Not investment advice.</span>
   </div>
 
